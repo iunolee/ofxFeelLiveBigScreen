@@ -1,0 +1,5 @@
+#Ignore data folder as it's too big
+bin/data
+
+#Ignore compressed files
+bin/FeelLive_1208_final2.app
